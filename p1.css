@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: black;
+    color: red;
+}
+body{
+    background-image: url('images1.jpg');
+}
+.container-fluid {
+    background-color: black;
+}
