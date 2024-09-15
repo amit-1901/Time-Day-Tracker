@@ -18,8 +18,6 @@ CSS: For styling the application and enhancing the user interface.
 
 JavaScript: For implementing real-time time display and updating the DOM.
 
-[Link](https://time-day-tracker.netlify.app/)
-
-https://time-day-tracker.netlify.app/
+Link : https://time-day-tracker.netlify.app/
 
 ![Snap_Shot](/Snap.png)
