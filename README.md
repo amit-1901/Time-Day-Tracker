@@ -18,4 +18,4 @@ CSS: For styling the application and enhancing the user interface.
 
 JavaScript: For implementing real-time time display and updating the DOM.
 
-
+![Snap_Shot](Screenshot (291).png)
