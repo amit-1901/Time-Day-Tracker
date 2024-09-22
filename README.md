@@ -1,6 +1,6 @@
-#Word-Time
+#Time-Day Tracker
 
-Words-Time is a simple web application that displays the current time, date, and day in real-time. It’s designed to provide users with up-to-date information based on their local time zone. The application uses HTML, CSS, and JavaScript to create an engaging and interactive user interface.
+Time-Day Tracker is a simple web application that displays the current time, date, and day in real-time. It’s designed to provide users with up-to-date information based on their local time zone. The application uses HTML, CSS, and JavaScript to create an engaging and interactive user interface.
 
 Features :
 
