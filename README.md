@@ -20,4 +20,4 @@ JavaScript: For implementing real-time time display and updating the DOM.
 
 Link : https://time-day-tracker.netlify.app/
 
-![Snap_Shot](/Snap.png)
+SnapShot: ![Snap_Shot](/Snap.png)
